@@ -6,7 +6,7 @@ package factorial;
 
 import javax.swing.JOptionPane;
 
-public class lovivido {
+public class LoVivido {
 
     public static void main(String[] args) {
         String nombre;
